@@ -18,7 +18,7 @@ defaults
 
 frontend  main
   bind *:80
-  redirect prefix https://www.nicsdev.tabordasolutions.net:3443
+  redirect prefix https://www.nicsdev.tabordasolutions.net
 
 
 frontend  main-https
